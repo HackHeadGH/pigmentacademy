@@ -27,7 +27,7 @@ FAQ: <br />
 Q: Is Pigment Academy a kid's game? <br />
 A: Far from it. To put things in perspective, <i> the first episode takes place in a massacre. </i> However, if you trust your kids enough to know fantasy from reality, you can let your kids play it. However, it's pretty up there. TL;DR, it's only bad for your kids if they can't handle it. <br />
 Q: I want to mod the game! <br />
-A: Although that's not really a question, feel free to mod the game all you want! (Just be sure to read the modding guide <a href="MODDING.md"> here, </a> and comply with our license <a href="LICENSE.md"> here.</a>) <br />
+A: Although that's not really a question, feel free to mod the game all you want! (Just make sure it complies with our license <a href="LICENSE.md"> here.</a>) <br />
 Q: What's your inspiration for this game? <br />
 A: I used to think school sucked because every class I went to treated me like crap. It got better in highschool, and my viewpoint isn't as bad now, but I'm still a critic of some things. <br />
 Q: Why so crude? <br />
